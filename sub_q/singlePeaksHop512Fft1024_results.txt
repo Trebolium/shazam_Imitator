@@ -1,0 +1,8 @@
+classical.00004-snippet-10-0.wav	classical.00004.wav	pop.00037.wav	pop.00031.wav
+pop.00059-snippet-10-20.wav	pop.00059.wav	pop.00056.wav	pop.00096.wav
+pop.00004-snippet-10-10.wav	pop.00023.wav	pop.00036.wav	pop.00031.wav
+pop.00004-snippet-10-0.wav	pop.00004.wav	pop.00052.wav	pop.00097.wav
+classical.00004-snippet-10-10.wav	classical.00004.wav	pop.00092.wav	pop.00059.wav
+pop.00059-snippet-10-10.wav	pop.00059.wav	pop.00056.wav	pop.00044.wav
+pop.00059-snippet-10-0.wav	pop.00059.wav	pop.00056.wav	pop.00044.wav
+time taken: 9.352826118469238
